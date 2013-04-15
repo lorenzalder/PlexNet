@@ -1,0 +1,1 @@
+Extending Plex C# WPF Generator using SRC code objects or changing generator templates
